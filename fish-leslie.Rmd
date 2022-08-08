@@ -7,9 +7,6 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Edit through github. 
-Now edit through RStudio.
-
 ## Overview
 
 A population of fish we're interested in has four life stages: eggs (E), fry (F), juvenile (J), breeding adult (A). You are given the following:
